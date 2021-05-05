@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dhineshkumar
-- 👀 I’m interested in coding
+- 👀 I’m interested in connect with people
 - 🌱 I’m currently learning Spring boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
